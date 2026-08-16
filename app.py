@@ -178,12 +178,6 @@ with st.sidebar:
         """
     )
 
-    st.markdown("---")
-
-    st.caption(
-        "Internship Data Analytics Project"
-    )
-
 
 # ============================================================
 # DATE FILTER
