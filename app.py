@@ -1090,8 +1090,7 @@ st.info(
 st.markdown(
     """
     <div class="footer">
-        Child Processing Pipeline Analytics |
-        Data Analysis & Visualization Internship Project
+        Child Processing Pipeline Analytics
     </div>
     """,
     unsafe_allow_html=True
